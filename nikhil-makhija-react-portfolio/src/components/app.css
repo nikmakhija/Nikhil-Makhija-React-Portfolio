@@ -1,0 +1,39 @@
+.app-header {
+    background-color: blue;
+    padding: 15px;
+}
+.app-header {
+    background-image:
+    url("C:\Users\makhija.1\Documents\49020838-boy-avatar-simple-icon-for-web-and-mobile-devices.jpg");
+    background-size:cover;
+}
+.app-header {
+    display: flex;
+    flex-direction: column;
+    background-color:blue
+} 
+.app-link {
+    color:yellow;
+    text-decoration: none; 
+}
+h1 {
+    color: red;
+    text-decoration: underline;
+    background-color:aquamarine; 
+}
+h2{
+    color: blue;
+    background-color: yellow;
+}
+body {
+background-color:honeydew;
+}
+table {
+background-color: honeydew;
+}
+@media screen and (min-width: 600px){
+    .elements{list-style-type:square;}
+}
+element {
+    background-color: var(-main-bg-color);
+}
